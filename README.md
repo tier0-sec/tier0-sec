@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... python
 - 💞️ I’m looking to collaborate on ... anything fun
 - 📫 How to reach me ... tier0.sec@proton.me
-- ⚡ Fun fact: ... I know some things
+- ⚡ Fun fact: ... I like to play the guitar and spin records (Jungle/DnB)
 
 <!---
 tier0-sec/tier0-sec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
